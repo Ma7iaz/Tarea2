@@ -1,2 +1,2 @@
-# Tarea2
+# Tarea 2
 Nombre: Matías Nicolás Escobar Fernández
